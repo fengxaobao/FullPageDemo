@@ -162,10 +162,11 @@
 
 /* 沙发 */
 .shirt-03,
+
 .t1f {
     position: absolute;
-    left: 115px;
-    bottom: 200px;
+    left: 300px;
+    bottom: 250px;
     display: none;
 }
 
@@ -179,7 +180,7 @@
 .cloud {
     position: absolute;
     left: 50%;
-    bottom: 550px;
+    bottom: 70%;
 }
 
 .word {
@@ -345,8 +346,7 @@
     position: absolute;
     left: 70%;
     bottom: 10%;
-    animation: down_img 2s linear 0s infinite alternate;
-}
+.}
 
 .search_box {
     animation: search_box 5s linear 2s infinite alternate;
@@ -403,8 +403,14 @@
 }
 .shirt_03 {
     display: none;
-    top: 0px;
     z-index: 3;
     position: absolute;
+    left: 15%;
+}
+
+._t1f1{
     left: 50%;
+    bottom: 332px;
+    display: none;
+    position: absolute;
 }
